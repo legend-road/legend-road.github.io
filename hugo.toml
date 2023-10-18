@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'zh-cn'
 title = '传奇之路'
-theme = 'ananke'
+theme = 'bilberry-hugo-theme/v4'
