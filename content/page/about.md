@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "关于"
 date: 2023-10-18T17:23:51+08:00
 draft: false
 # comment out the menu and weight variables
@@ -16,4 +16,6 @@ link: ""
 target: "_blank"
 ---
 
-这是关于测试的内容
+
+
+

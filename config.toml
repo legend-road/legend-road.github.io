@@ -1,5 +1,0 @@
-baseURL = 'http://128.0.0.1/'
-languageCode = 'zh-cn'
-title = '传奇之路'
-theme = 'bilberry-hugo-theme/v4'
-algolia_search = false
